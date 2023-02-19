@@ -1,14 +1,12 @@
-let randomnumber = Math.floor((Math.random()* 9000) + 1000);
+function Random() {
+    let tb = Math.floor((Math.random() * 9000) + 1000);
 
-document.getElementById("random-number").innerHTML = randomnumber;
-
-
-
-
+    document.getElementById("tb").value = tb;
+}
 
 
 
 
 
 
-5
+

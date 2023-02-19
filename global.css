@@ -69,3 +69,8 @@ body {
 .margin0 {
     margin: 0;
 }
+
+#tb {
+    background: none;
+    border: none;
+}
